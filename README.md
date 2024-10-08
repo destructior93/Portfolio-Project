@@ -6,4 +6,4 @@ It includes selecting and highlighting a few types of data, as well as usage of 
 The second is focused on cleaning, standardizing and formatting a table of housing information.
 Examples are: joining tables, populating and clearing cells, removing duplicates, ect.
 
-Both projects were made by me while following @AlexTheAnalyst's tutorial series. Shout out to both him and freecodecamp.org for their great contributions!
+Both projects were written by me while following @AlexTheAnalyst's tutorial series. Shout out to both him and freecodecamp.org for their great contributions!
