@@ -1,3 +1,3 @@
-Welcome to the forepage of my portfolio and projects.
+On this page you can find my excel project files.
 
-Please naivage to the corresponding branch for a further look into my projects.
+These projects utilize various features within excel: from pivots to charts, slicers , functions and more.
