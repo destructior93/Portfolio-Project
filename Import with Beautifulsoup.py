@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
+# commented out print lines are utilized during the process of importing various sites in case the website's format differs
+
 url = 'https://www.worldometers.info/co2-emissions/co2-emissions-by-country/'
 page = requests.get(url)
 soup = BeautifulSoup(page.text, features="html.parser")
