@@ -1,3 +1,1 @@
-Welcome to the forepage of my portfolio and projects.
-
-Please navigate to the corresponding branch for a further look into my projects.
+Here you can find a powerBI visualization file that is a dashboard of a survey on data field employees.
